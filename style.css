@@ -49,3 +49,8 @@ body{
   display: block;
   margin: 10px;
 }
+@media (max-width:500px) {
+  .menu-bar{
+    width: 100%;
+  }
+}
