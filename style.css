@@ -5,9 +5,7 @@
 }
 body{
   background-image: url(darkbackground.jpg);
-  background-position: top;
   background-size: cover;
-  box-sizing: border-box;
   font-family: sans-serif;
 }
 .menu-bar{
